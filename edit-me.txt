@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test edit text
+=======
+test edit text
+>>>>>>> 6a30a9d1d81dac22501f97fd661934c3b9ef8f41
